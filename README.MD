@@ -1,3 +1,5 @@
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Nytely-Official/Google_ChatGPT/total?style=for-the-badge)
+
 # Nytely ChatGPT
 
 Nytely ChatGPT is a desktop application for using ChatGPT on Windows.
