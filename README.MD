@@ -1,4 +1,4 @@
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Nytely-Official/Google_ChatGPT/total?style=for-the-badge)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Nytely-Official/Google_ChatGPT/total?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FNytely-Official%2FChatGPT_Windows%2Freleases%2Ftag%2FRelease)
 
 # Nytely ChatGPT
 
